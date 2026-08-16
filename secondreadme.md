@@ -24,7 +24,7 @@
 | 시트 연결 | `SpreadsheetApp.getActiveSheet()` | 현재 작업 중인 시트를 불러옴 |
 | 데이터 추출 | `getRange("B2").getValue()` | 일기(B2)와 답장(C2) 값을 가져옴 |
 | **필터** | `if (일기=="") return;` | 일기가 비어있으면 발송 중단 |
-| **액션** | `GmailApp.sendEmail()` | Gmail로 메일 자동 발송 |
+| **액션** | `generate("c2"),GmailApp.sendEmail()` | 구글 스프레드 c2값 생성 ,Gmail로 메일 자동 발송 |
 | **트리거** | `getRange("B2")` | 일기(B2)에 사용자가 값을 입력 |
 
 **③ 메일 구성**
