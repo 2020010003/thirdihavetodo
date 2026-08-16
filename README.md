@@ -169,5 +169,8 @@ Gmail 받은편지함에서 답장 메일 수신을 확인하였다.
 Apps Script 연동을 통해 **일기 → AI 답장 → 메일 수신**까지의
 전 과정이 **자동화**되어 사용자 편의성이 향상되었다.
 
----
+---<img width="791" height="1024" alt="앱스크립트를 통해 메일자동화 사진" src="https://github.com/user-attachments/assets/479b15ef-47f4-499a-b2e0-589af4fb8525" />
+<img width="791" height="1024" alt="실제메일을 통해 전송된 사진" src="https://github.com/user-attachments/assets/4c52f3e8-5155-4016-a4ea-c3095a7c84e2" />
+<img width="791" height="1024" alt="구글스크립트자동화사진" src="https://github.com/user-attachments/assets/ee6d7703-42cf-42b4-8532-37ac162e3562" />
+
 
